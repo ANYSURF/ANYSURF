@@ -1,3 +1,5 @@
+multiple `docker-compose instances at `SPHERE1`
+
 `cat local.json`
 
 ```json
