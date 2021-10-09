@@ -1,6 +1,7 @@
-```
-cat local.json 
+`cat local.json`
+
+```json
 {
-  "fqdn":"ahtracker.any.surf"
+  "fqdn": "ahtracker.any.surf"
 }
 ```
